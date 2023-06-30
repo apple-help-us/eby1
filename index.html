@@ -6,7 +6,7 @@
 
 
     
-    <link href="css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
         <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
 
         <style type="text/css">
